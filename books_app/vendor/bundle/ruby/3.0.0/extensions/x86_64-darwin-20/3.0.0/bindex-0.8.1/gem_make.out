@@ -1,0 +1,15 @@
+current directory: /Users/amano/Desktop/railsbook/my_web_apps/books_apps/vendor/bundle/ruby/3.0.0/gems/bindex-0.8.1/ext/skiptrace
+/Users/amano/.rbenv/versions/3.0.1/bin/ruby -I /Users/amano/.rbenv/versions/3.0.1/lib/ruby/3.0.0 -r ./siteconf20210510-8187-97eo1v.rb extconf.rb
+creating Makefile
+
+current directory: /Users/amano/Desktop/railsbook/my_web_apps/books_apps/vendor/bundle/ruby/3.0.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= clean
+
+current directory: /Users/amano/Desktop/railsbook/my_web_apps/books_apps/vendor/bundle/ruby/3.0.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\=
+compiling cruby.c
+linking shared-object skiptrace/internal/cruby.bundle
+
+current directory: /Users/amano/Desktop/railsbook/my_web_apps/books_apps/vendor/bundle/ruby/3.0.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= install
+/usr/bin/install -c -m 0755 cruby.bundle ./.gem.20210510-8187-30m04x/skiptrace/internal
